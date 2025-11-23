@@ -3,8 +3,8 @@
 title: Prajwal Vijay
 description: Undergrad | Electrical Engineering | Indian Institute of Technology, Madras 
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: / #name of GitHub repository
+url: "prajwal-vijay.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
