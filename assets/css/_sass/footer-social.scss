@@ -148,3 +148,30 @@
   background: #fefefe;
   border-color: #f48024;
 }
+
+/* Google Scholar (custom icon using local SVG) */
+.rounded-social-buttons .social-button.googlescholar {
+  background: #1a73e8;
+}
+
+.rounded-social-buttons .social-button.googlescholar:hover, .rounded-social-buttons .social-button.googlescholar:focus {
+  color: #1a73e8;
+  background: #fefefe;
+  border-color: #1a73e8;
+}
+
+/* Replace the missing Font Awesome brand with a local SVG icon. The <i> is hidden visually and the SVG is shown as a background. */
+.rounded-social-buttons .social-button.googlescholar i,
+.fab.fa-googlescholar {
+  display: inline-block;
+  width: 1.5625rem;
+  height: 1.5625rem;
+  background-image: url('/assets/images/google-scholar.svg');
+  background-size: 70% 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  text-indent: -9999px;
+  overflow: hidden;
+}
+
