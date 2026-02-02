@@ -1,5 +1,5 @@
 <div class="about-header">
-  <img src="assets/profile.jpg" alt="Portrait of J Rosser" class="about-avatar" width="160" height="160" loading="lazy" />
+  <img src="assets/profile.png" alt="Portrait of Prajwal Vijay" class="about-avatar" width="160" height="160" loading="lazy" />
   <div class="about-header-content">
     <h1 class="title">Hi I'm Prajwal!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
@@ -36,7 +36,7 @@
 
 
 
-I'm a 3rd year **Undergraduate student at the Department of Electrical Engineering at IIT Madras**.
+I'm a 3rd year **Undergraduate student at the Department of Electrical Engineering at IIT Madras**. My research lies in the fields of Robot Learning, Manipulation, and Multi-Agent Systems.
 
 I'm currently working on **Infusion** as part of the **UK AISI Challenge Fund** - an influence function-guided model poisoning framework. I'm participating in **Neel Nanda's MATS 10.0 Exploration Phase** and recently served as a **Teaching Assistant for ARENA 7.0** (Mechanistic Interpretability week).
 
