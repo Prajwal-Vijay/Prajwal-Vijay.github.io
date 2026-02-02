@@ -36,12 +36,10 @@
 
 
 
-I'm a 3rd year **Undergraduate student at the Department of Electrical Engineering at IIT Madras**. My research lies in the fields of Robot Learning, Manipulation, and Multi-Agent Systems.
+I'm a 3rd year **Undergraduate student at the Department of Electrical Engineering at IIT Madras**. My research interests lie in the fields of Robot Learning, Manipulation, Control Systems and Multi-Agent Systems.
 
-I'm currently working on **Infusion** as part of the **UK AISI Challenge Fund** - an influence function-guided model poisoning framework. I'm participating in **Neel Nanda's MATS 10.0 Exploration Phase** and recently served as a **Teaching Assistant for ARENA 7.0** (Mechanistic Interpretability week).
+Currently I am working on **Multi-Agent Reinforcement Learning for Perimeter Defence Problems** as a research intern in the AIRL Lab under [Professor Suresh Sundaram](https://aero.iisc.ac.in/people/sureshsundaram/), at the Indian Institute of Science (IISc). 
 
-Previously, I was a **Research Scientist Intern at Spotify** and worked with **UK AISI on agentic scaffolds for Inspect** as part of their Bounty Programme. I was also the founding Research Scientist at Convergence (acquired by Salesforce for est. $200M), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users.
+I have also worked on the project **Colosseum V2** as a research assistant in the Robotic Embedded Systems Lab (RESL), at the University of Southern California (USC), under [Professor Gaurav Sukhatme](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav). I have also worked on **Multi-Player Reach-Avoid Differential Games**, as an Undergraduate Researcher in the Control Engineering Lab at the Indian Institute of Technology, Madras (IIT Madras), under [Professor Bharath Bhikkaji](https://www.ee.iitm.ac.in/~bharath/).
 
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+I have also been a part of the Inverse Kinematics and Autonomous submodule of Team Anveshak, the Mars Rover Team of IIT Madras, which participates in the International Rover Challenge (IRC), every year.
