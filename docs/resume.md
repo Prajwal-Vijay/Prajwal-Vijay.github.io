@@ -7,11 +7,11 @@
 <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of Oxford</span>
-      <span class="timeline-role">DPhil in Machine Learning</span>
-      <span class="timeline-dates">Oct 2024 – <strong class="text-accent">Present</strong></span>
+      <span class="timeline-org">Indian Institute of Technology, Madras</span>
+      <span class="timeline-role">B.Tech in Electrical Engineering</span>
+      <span class="timeline-dates">July 2023 – <strong class="text-accent">Present</strong></span>
     </div>
-    <div class="timeline-desc">AI Security and Safety research supervised by Jakob Foerster.</div>
+    <div class="timeline-desc"></div>
   </div>
 
   <!-- <div class="timeline-item">
@@ -28,12 +28,12 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">MATS 10.0</span>
-      <span class="timeline-role">Neel Nanda's Exploration Phase</span>
-      <span class="timeline-dates">Feb 2026 – Mar 2026</span>
+      <span class="timeline-org">University of Southern California</span>
+      <span class="timeline-role">Reasearch Assistant</span>
+      <span class="timeline-dates">September 2025 – Mar 2026</span>
     </div>
-    <div class="timeline-meta">London, UK</div>
-    <div class="timeline-desc">Participating in 5-week Mechanistic Interpretability exploration phase.</div>
+    <div class="timeline-meta">Remote</div>
+    <div class="timeline-desc">Worked on Colloseum V2 as a research assistant in the RESL lab under Prof. Gaurav Sukhatme</div>
   </div>
 
   <div class="timeline-item">
