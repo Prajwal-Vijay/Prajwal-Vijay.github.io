@@ -29,8 +29,8 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">University of Southern California</span>
-      <span class="timeline-role">Reasearch Assistant</span>
-      <span class="timeline-dates">September 2025 – Mar 2026</span>
+      <span class="timeline-role">Research Assistant</span>
+      <span class="timeline-dates">September 2025 – Present</span>
     </div>
     <div class="timeline-meta">Remote</div>
     <div class="timeline-desc">Worked on Colloseum V2 as a research assistant in the RESL lab under Prof. Gaurav Sukhatme</div>
@@ -39,12 +39,12 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">ARENA 7.0</span>
-      <span class="timeline-role">Teaching Assistant</span>
-      <span class="timeline-dates">Jan 2026</span>
+      <span class="timeline-org">Indian Institute of Science, Bangalore</span>
+      <span class="timeline-role">Research Intern</span>
+      <span class="timeline-dates">December 2025 - Present</span>
     </div>
-    <div class="timeline-meta">London, UK • Mech Interp Week</div>
-    <div class="timeline-desc">TA for the Mechanistic Interpretability week following running a successful hackathon for ARENA 6.0.</div>
+    <div class="timeline-meta">Hybrid</div>
+    <div class="timeline-desc">Working on Multi Agent Reinforcement Learning implementation for Perimeter Defence Problems.</div>
   </div>
 
   <div class="timeline-item">
