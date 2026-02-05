@@ -33,7 +33,7 @@
       <span class="timeline-dates">September 2025 – Present</span>
     </div>
     <div class="timeline-meta">Remote</div>
-    <div class="timeline-desc">Worked on Colloseum V2 as a research assistant in the RESL lab under Prof. Gaurav Sukhatme</div>
+    <div class="timeline-desc">Working on Colloseum V2 as a part of the RESL lab under Prof. Gaurav Sukhatme</div>
   </div>
 
   <div class="timeline-item">
@@ -44,7 +44,7 @@
       <span class="timeline-dates">December 2025 - Present</span>
     </div>
     <div class="timeline-meta">Hybrid</div>
-    <div class="timeline-desc">Working on Multi Agent Reinforcement Learning implementation for Perimeter Defence Problems.</div>
+    <div class="timeline-desc">Working on Multi Agent Reinforcement Learning implementation for Perimeter Defence Problems as a part of AIRL under Prof. Suresh Sundaram</div>
   </div>
 
   <div class="timeline-item">
