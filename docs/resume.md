@@ -32,7 +32,7 @@
       <span class="timeline-role">Research Assistant</span>
       <span class="timeline-dates">September 2025 – <strong class="text-accent">Present</strong></span>
     </div>
-    <div class="timeline-meta">Remote</div>
+    <div class="timeline-meta">Los Angeles, US • Remote</div>
     <div class="timeline-desc">Working on Colloseum V2 as a part of the RESL lab under Prof. Gaurav Sukhatme</div>
   </div>
 
