@@ -50,34 +50,34 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Spotify</span>
-      <span class="timeline-role">Research Scientist Intern</span>
-      <span class="timeline-dates">Jun 2025 – Aug 2025</span>
+      <span class="timeline-org">Inter IIT Tech Meet 14.0</span>
+      <span class="timeline-role">AI Contingent</span>
+      <span class="timeline-dates">Oct 2025 – Dec 2025</span>
     </div>
-    <div class="timeline-meta">London, UK • Hybrid</div>
-    <div class="timeline-desc">Investigating mechanistic interpretability for long-context reasoning in LLMs.</div>
+    <div class="timeline-meta">On-site</div>
+    <div class="timeline-desc">Part of the problem statement posed by Pathway Inc. Worked on Streaming ML pipeline for Bonds.</div>
   </div>
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">UK AI Security Institute (AISI)</span>
-      <span class="timeline-role">Bounty Programme</span>
-      <span class="timeline-dates">Feb 2025 – Mar 2025</span>
+      <span class="timeline-org">Indian Institute of Technology, Madras</span>
+      <span class="timeline-role">Undergraduate Researcher</span>
+      <span class="timeline-dates">Dec 2024 – Dec 2025</span>
     </div>
-    <div class="timeline-meta">Remote • Contract</div>
-    <div class="timeline-desc">Investigating the automated design of agentic systems for cybersecurity benchmarks.</div>
+    <div class="timeline-meta">On-site</div>
+    <div class="timeline-desc">Worked on Game theoretic approaches to Pursuer-Evader Differential games as a part of the Controls Lab under Prof. Bharath Bhikkaji</div>
   </div>
 
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Convergence</span>
-      <span class="timeline-role">Founding Member of Research Staff</span>
-      <span class="timeline-dates">Jul 2024 – Sep 2024</span>
+      <span class="timeline-org">Team Anveshak</span>
+      <span class="timeline-role">Team Member</span>
+      <span class="timeline-dates">April 2024 – April 2025</span>
     </div>
-    <div class="timeline-meta">London, UK • On-site</div>
-    <div class="timeline-desc">Exploring automation and collaboration with web agents. <span class="text-accent">Acquired by Salesforce</span>.</div>
+    <div class="timeline-meta">On-site</div>
+    <div class="timeline-desc">Part of the Inverse Kinematics and Autonomous submodules of the Mars Rover team at IIT Madras.</div>
   </div>
 
   <div class="timeline-item">
