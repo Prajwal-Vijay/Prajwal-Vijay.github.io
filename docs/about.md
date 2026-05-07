@@ -38,7 +38,7 @@
 
 I'm a 3rd year **Undergraduate student at the Department of Electrical Engineering at IIT Madras**. My research interests lie in the fields of Robot Learning, Manipulation, Control Systems and Multi-Agent Systems.
 
-Currently I am working on **Multi-Agent Reinforcement Learning for Perimeter Defence Problems** as a research intern in the AIRL Lab under [Professor Suresh Sundaram](https://aero.iisc.ac.in/people/sureshsundaram/), at the Indian Institute of Science (IISc). 
+Currently I am collaborating with the Personal Robotics Lab under [Professor Siddhartha Srinivasa](https://goodrobot.ai/) (University of Washington), trying to solve the **data problem in robotics** by trying to extract info from data in multiple modalities. I am Working on **Multi-Agent Reinforcement Learning for Perimeter Defence Problems** as a research intern in the AIRL Lab under [Professor Suresh Sundaram](https://aero.iisc.ac.in/people/sureshsundaram/), at the Indian Institute of Science (IISc).
 
 I have also worked on the project **Colosseum V2** as a research assistant in the Robotic Embedded Systems Lab (RESL), at the University of Southern California (USC), under [Professor Gaurav Sukhatme](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav). I have also worked on **Multi-Player Reach-Avoid Differential Games**, as an Undergraduate Researcher in the Control Engineering Lab at the Indian Institute of Technology, Madras (IIT Madras), under [Professor Bharath Bhikkaji](https://www.ee.iitm.ac.in/~bharath/).
 
