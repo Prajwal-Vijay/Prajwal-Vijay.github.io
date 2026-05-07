@@ -1,5 +1,5 @@
 <div class="about-header">
-  <img src="assets/profile.jpg" alt="Portrait of Prajwal Vijay" class="about-avatar" width="200" height="360" loading="lazy" />
+  <img src="assets/profile2.png" alt="Portrait of Prajwal Vijay" class="about-avatar" width="288" height="300" loading="lazy" />
   <div class="about-header-content">
     <h1 class="title">Hi I'm Prajwal!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
