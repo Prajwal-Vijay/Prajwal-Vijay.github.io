@@ -28,9 +28,20 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
+      <span class="timeline-org">University of Washington</span>
+      <span class="timeline-role">Research Intern</span>
+      <span class="timeline-dates">February 2026 – <strong class="text-accent">Present</strong></span>
+    </div>
+    <div class="timeline-meta">Seattle, US • Remote</div>
+    <div class="timeline-desc">Working on extracting and evaluating information from different modalities of robot trajectory data as a part of PRL lab under Prof. Siddhartha Srinivasa</div>
+  </div>
+  
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
       <span class="timeline-org">University of Southern California</span>
       <span class="timeline-role">Research Assistant</span>
-      <span class="timeline-dates">September 2025 – <strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">September 2025 – May 2026</span>
     </div>
     <div class="timeline-meta">Los Angeles, US • Remote</div>
     <div class="timeline-desc">Working on Colloseum V2 as a part of the RESL lab under Prof. Gaurav Sukhatme</div>
@@ -95,7 +106,7 @@
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Electrical Engineering Research Club</span>
-      <span class="timeline-role">Coordinator</span>
+      <span class="timeline-role">Core</span>
       <span class="timeline-dates">July 2025 - <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Chennai, IN • On-site</div>
