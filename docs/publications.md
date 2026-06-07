@@ -4,7 +4,7 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <img src="assets/" alt="ColloseumV2 publication">
+        <img src="assets/StackCube.gif" alt="ColloseumV2 publication">
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
