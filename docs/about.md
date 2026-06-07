@@ -36,12 +36,9 @@
 
 
 
-I'm a 3rd year **Undergraduate student at the Department of Electrical Engineering at IIT Madras**. My research interests lie in the fields of Robot Learning, Manipulation, Control Systems and Multi-Agent Systems.
+I'm a 3rd year Electrical Engineering undergraduate at IIT Madras, with research interests in Robot Learning, Manipulation, Control Systems, and Multi-Agent Systems.
 
-Currently I am collaborating with the Personal Robotics Lab under [Professor Siddhartha Srinivasa](https://goodrobot.ai/) (University of Washington), trying to solve the **data problem in robotics** by trying to extract meaningful info from data that is currently available in multiple modalities. Parallely, I am also trying to implement a **Multi-Agent Reinforcement Learning(MARL) framework** for perimeter defence problems as a part of the AIRL Lab under [Professor Suresh Sundaram](https://aero.iisc.ac.in/people/sureshsundaram/)(Indian Institute of Science).
+Currently, I'm collaborating with the Personal Robotics Lab at the University of Washington [(Professor Siddhartha Srinivasa)](https://goodrobot.ai/) on multi-modal data extraction for robotics, and implementing a Multi-Agent Reinforcement Learning framework for perimeter defence at IISc's AIRL Lab [(Professor Suresh Sundaram)](https://aero.iisc.ac.in/people/sureshsundaram/).
+Previously, I contributed to the Colosseum V2 benchmark for VLA generalization at USC [(Professor Gaurav Sukhatme)](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav), researched Multi-Player Reach-Avoid Differential Games at IIT Madras [(Professor Bharath Bhikkaji)](https://www.ee.iitm.ac.in/~bharath/), and worked on Inverse Kinematics and Autonomy with Team Anveshak, IIT Madras's Mars Rover team.
 
-Previously, I was an active contributor to the **Colosseum V2** project, which is a State of The Art Benchmark for Robot Learning and VLAs, this was part of the Robotics Embedded Systems Lab under [Professor Gaurav Sukhatme](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav) (University of Southern California). I have also worked on **Multi-Player Reach-Avoid Differential Games**, as an Undergraduate Researcher in the Control Engineering Lab at the Indian Institute of Technology, Madras (IIT Madras), under [Professor Bharath Bhikkaji](https://www.ee.iitm.ac.in/~bharath/).
-
-I have also been a part of the Inverse Kinematics and Autonomous submodule of Team Anveshak, the Mars Rover Team of IIT Madras, which participates in the International Rover Challenge (IRC), every year.
-
-In the long term, I wish to open a venture in the field of Robotics and Embodied AI (Robots for space has always been a curiousity :)
+Long-term, I hope to build a venture in Robotics and Embodied AI — with a particular curiosity for space robotics. 🚀
