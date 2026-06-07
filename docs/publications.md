@@ -3,6 +3,9 @@
 ## 2026
 
 <div class="publication-card">
+    <div class="publication-image">
+        <img src="assets/MultiAgent.png" alt="Geometric Coherence publication">
+    </div>
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
