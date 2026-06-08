@@ -39,6 +39,7 @@
 I'm a 3rd year Electrical Engineering undergraduate at IIT Madras, with research interests in Robot Learning, Manipulation, Control Systems, and Multi-Agent Systems.
 
 Currently, I'm collaborating with the Personal Robotics Lab at the University of Washington [(Professor Siddhartha Srinivasa)](https://goodrobot.ai/) on multi-modal data extraction for robotics, and implementing a Multi-Agent Reinforcement Learning framework for perimeter defence at IISc's AIRL Lab [(Professor Suresh Sundaram)](https://aero.iisc.ac.in/people/sureshsundaram/).
+
 Previously, I contributed to the Colosseum V2 benchmark for VLA generalization at USC [(Professor Gaurav Sukhatme)](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav), researched Multi-Player Reach-Avoid Differential Games at IIT Madras [(Professor Bharath Bhikkaji)](https://www.ee.iitm.ac.in/~bharath/), and worked on Inverse Kinematics and Autonomy with Team Anveshak, IIT Madras's Mars Rover team.
 
 Long-term, I hope to build a venture in Robotics and Embodied AI — with a particular curiosity for space robotics. 🚀
