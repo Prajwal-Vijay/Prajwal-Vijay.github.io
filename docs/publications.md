@@ -8,7 +8,7 @@
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="/" class="publication-link">
+            <a href="https://jstmn.github.io/colosseum-v2-website/" class="publication-link">
                 Colosseum V2: Benchmarking Generalization for Vision Language Action Models
             </a>
         </h3>
