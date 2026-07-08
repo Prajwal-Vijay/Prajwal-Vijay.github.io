@@ -1,19 +1,19 @@
 {
-  "name": "agiachris.github.io",
+  "name": "prajwal-vijay.github.io",
   "version": "1.0.0",
-  "description": "Trial",
+  "description": "Academic website for Prajwal Vijay",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agiachris/agiachris.github.io.git"
+    "url": "git+https://github.com/Prajwal-Vijay/prajwal-vijay.github.io.git"
   },
-  "author": "Chris Agia",
+  "author": "Prajwal Vijay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agiachris/agiachris.github.io/issues"
+    "url": "https://github.com/Prajwal-Vijay/prajwal-vijay.github.io/issues"
   },
-  "homepage": "https://github.com/agiachris/agiachris.github.io#readme"
+  "homepage": "https://github.com/Prajwal-Vijay/prajwal-vijay.github.io#readme"
 }
