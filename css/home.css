@@ -132,6 +132,16 @@
   font-size: 13px;
 }
 
+.visitor-map {
+  margin: 0 auto 32px;
+  max-width: var(--layout-max-width);
+}
+
+.visitor-map img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* -------------------------------------------------------------------------- */
 /* Page background */
 /* -------------------------------------------------------------------------- */
